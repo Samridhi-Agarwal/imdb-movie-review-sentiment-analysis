@@ -202,11 +202,3 @@ imdb-movie-review-sentiment-analysis/
 ## 📚 Learning Outcomes
 
 This project demonstrates practical applications of natural language processing, recurrent neural networks, sequence preprocessing, binary text classification, and deep learning model evaluation.
-
-## 👩‍💻 Author
-
-**Your Name**
-
-GitHub: https://github.com/YOUR-USERNAME
-
-Replace `Your Name` and `YOUR-USERNAME` with your details before publishing.
